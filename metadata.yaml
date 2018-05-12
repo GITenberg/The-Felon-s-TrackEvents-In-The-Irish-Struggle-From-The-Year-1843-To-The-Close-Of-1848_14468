@@ -1,0 +1,33 @@
+_repo: The-Felon-s-TrackEvents-In-The-Irish-Struggle-From-The-Year-1843-To-The-Close-Of-1848_14468
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doheny, Michael
+    birthdate: 1805
+    deathdate: 1862
+    gutenberg_agent_id: '5537'
+    url: http://www.gutenberg.org/2009/agents/5537
+    wikipedia: http://en.wikipedia.org/wiki/Michael_Doheny
+description: ''
+gutenberg_issued: '2004-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14468'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young Ireland Party -- History'
+- !lcsh 'Young Ireland movement'
+- !lcc 'DA'
+- !lcsh 'Ireland -- History -- Rising of 1848'
+title: 'The Felon''s Track
+
+  History Of The Attempted Outbreak In Ireland, Embracing The Leading
+
+  Events In The Irish Struggle From The Year 1843 To The Close Of 1848'
+url: http://www.gutenberg.org/ebooks/14468
